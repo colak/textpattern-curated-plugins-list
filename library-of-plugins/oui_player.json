@@ -1,0 +1,23 @@
+{
+  "name": "oui_player",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/NicolasGraph/oui_player"
+    }
+  ],
+  "beta": {
+    "version": "2.0.0-beta.3",
+    "datePublished": "2018-08-15",
+    "downloadUrlTxt": "https://github.com/NicolasGraph/oui_player/releases/download/2.0.0-BETA3/oui_player_v2.0.0-BETA3_zip.txt",
+    "downloadUrlPhp": "https://github.com/NicolasGraph/oui_player/archive/2.0.0-BETA3.zip",
+    "phpHasManifest": 1
+  },
+  "stable": {
+    "version": "1.1.1",
+    "datePublished": "2017-07-13",
+    "downloadUrlTxt": "https://github.com/NicolasGraph/oui_player/releases/download/1.3.1/oui_player_v1.3.1_zip.txt",
+    "downloadUrlPhp": "https://github.com/NicolasGraph/oui_player/archive/1.3.1.zip",
+    "phpHasManifest": 0
+  }
+}
